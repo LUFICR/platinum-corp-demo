@@ -1,0 +1,6 @@
+{
+  "name": "Platinum Crest",
+  "description": "Premium real estate landing page demo for Platinum Crest by Platinum Corp in Upper Juhu, Andheri West, Mumbai. An unofficial high-converting residential showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
